@@ -1,0 +1,81 @@
+Day - 10&11 Looping/ Iterative Statements:
+==============================================
+While loop: if we don't know the number of iterations then we should go for while loop, until the condition is false.
+
+syntax:
+
+while(some action) {
+---------
+---------
+---------
+}
+
+* while loop is also known as top-tested loop.
+semicolon is not mandatory.
+minimum number of executions are 0.
+
+Do-while loop:
+==================
+If at least one time is executing the do block then we should go for do-while.
+
+Syntax:
+
+do{
+------------
+------------
+------------
+}while(some condition);
+----------
+-----------
+-----------
+}
+
+minimum number of executions is 1.
+semicolon is mandatory.
+do-while is also known as bottom-tested loop.
+
+for loop:
+=================
+If we know number of iterations then we will take for loop.
+
+syntax:
+
+for(initialization; condition-check; increment/ decrement section){
+------------
+-------------
+}
+
+initialization section:
+---------------------------
+This section will be executed only once in entire for loop representation.
+
+Jumping statements:
+=============================
+1.break:
+------------
+the (break;) statement is used to terminate the execution of loop or switch or label block.
+we use break statements in 3 places only, they are:
+1.inside switch
+2. inside loops
+3. inside label blocks.
+
+if we using in any otherwhere we are getting compile time error.
+
+2. Continue:
+-----------------
+To skip the current iteration and proceed to next iteration is known as continue statement.
+
+
+
+Assignment:
+1.table multiplication
+2.count the digits in a number(
+3. sum of digits
+4. factorial number
+5. Armstrong number
+6.reverse of a number
+7.palindrome number
+8.fibanocii series
+9.sum of ever and odd number upto n terms
+10. print prime numbers sum upto n.
+
